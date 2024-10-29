@@ -1,11 +1,11 @@
-### AMALURAJAsql-Library-Management-System
+## AMALURAJAsql-Library-Management-System
 ## A SQL-based database project to manage library operations, including books, employees, customers, and branches. Includes 6 tables and 12 queries for various use cases.
 
-### Library Management System SQL Queries
+# Library Management System SQL Queries
 
 A collection of SQL queries for managing a library database.
 
-# Database Schema
+## Database Schema
 
 The database schema consists of 6 tables:
 
@@ -16,7 +16,7 @@ The database schema consists of 6 tables:
 5. IssueStatus
 6. ReturnStatus
 
-# Queries
+## Queries
 
 The repository includes 12 SQL queries addressing various use cases:
 
@@ -33,7 +33,7 @@ The repository includes 12 SQL queries addressing various use cases:
 11. Retrieve employee names who manage branches and their respective branch addresses
 12. Display customer names who issued books with rental price higher than Rs. 25
 
-# Usage
+## Usage
 
 1. Create a database named "Library" in your DBMS.
 2. Run the SQL script (library.sql) to create the database schema and populate with sample data.
